@@ -25753,6 +25753,10 @@ ion-title {
   left: 0;
 }
 
+ion-segment {
+  background: #fff;
+}
+
 .action-sheet-container {
   padding: 0 10px;
 }
