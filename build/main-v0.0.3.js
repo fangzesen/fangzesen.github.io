@@ -12667,7 +12667,6 @@ var MyApp = /** @class */ (function () {
      * @memberof MyApp
      */
     MyApp.prototype._init = function () {
-        var _this = this;
         // this.lightConfig.baseUrl = "http://172.16.50.135:17113/"; //冶金内网
         this.lightConfig.baseUrl = "http://183.3.132.227:17113/"; //冶金外网
         // this.lightConfig.baseUrl = "http://218.25.36.152:10003/";  //沈阳客户外网
@@ -12678,16 +12677,17 @@ var MyApp = /** @class */ (function () {
         // this.lightExit.registerBackButtonAction(this.ionicApp, this.nav);
         //初始化软键盘
         this.lightKeyboard.initKeyboard(window);
-        this.lightUser
-            .autoLoginCheck()
-            .then(function () {
-            _this.nav.setRoot(__WEBPACK_IMPORTED_MODULE_2__pages_common_index__["b" /* TabsPage */]);
-            if (window['cordova']) {
-                _this.lightApp.updateAppFn(false, false);
-            }
-        }).catch(function () {
-            _this.rootPage = __WEBPACK_IMPORTED_MODULE_2__pages_common_index__["a" /* LoginPage */];
-        });
+        // 因企业微信不需要登录，先屏蔽自动登录功能
+        // this.lightUser
+        //   .autoLoginCheck()
+        //   .then(() => {
+        //     this.nav.setRoot(TabsPage);
+        //     if (window['cordova']) {
+        //       this.lightApp.updateAppFn(false, false);
+        //     }
+        //   }).catch(() => {
+        //     this.rootPage = LoginPage;
+        //   });
         // 是否要进行授权
         // let login = location.href.includes('&state=login');
         // let codeReg = /(?:code\=)(\S+?)(?:&state)/;
