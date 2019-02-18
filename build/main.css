@@ -25799,6 +25799,10 @@ ion-title {
   width: initial !important;
 }
 
+ion-segment {
+  background: #fff;
+}
+
 work-page ion-header ion-segment {
   background-color: #fff;
 }

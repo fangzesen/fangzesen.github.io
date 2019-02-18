@@ -3331,19 +3331,19 @@ var map = {
 		1
 	],
 	"../pages/work/work-new-process/work-new-process.module": [
-		488,
+		486,
 		0
 	],
 	"../pages/work/work-page.component.module": [
-		486,
+		487,
 		16
 	],
 	"../pages/work1/work1.module": [
-		487,
+		489,
 		5
 	],
 	"../pages/work2/work2.module": [
-		489,
+		488,
 		4
 	]
 };
@@ -7050,10 +7050,10 @@ var AppModule = /** @class */ (function () {
                         { loadChildren: '../pages/work/work-detail/work-detail.module#WorkDetailPageModule', name: 'WorkDetailPage', segment: 'work-detail', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/work/work-flow-chart/work-flow-chart.module#WorkFlowChartPageModule', name: 'WorkFlowChartPage', segment: 'work-flow-chart', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/work/work-new-process-list/work-new-process-list.module#WorkNewProcessListPageModule', name: 'WorkNewProcessListPage', segment: 'work-new-process-list', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/work/work-page.component.module#WorkPageComponentModule', name: 'WorkPageComponent', segment: 'work-page.component', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/work1/work1.module#Work1PageModule', name: 'Work1Page', segment: 'Work1/:id', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/work/work-new-process/work-new-process.module#WorkNewProcessPageModule', name: 'WorkNewProcessPage', segment: 'work-new-process', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/work2/work2.module#Work2PageModule', name: 'Work2Page', segment: 'Work2/:id', priority: 'low', defaultHistory: [] }
+                        { loadChildren: '../pages/work/work-page.component.module#WorkPageComponentModule', name: 'WorkPageComponent', segment: 'work-page.component', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/work2/work2.module#Work2PageModule', name: 'Work2Page', segment: 'Work2/:id', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/work1/work1.module#Work1PageModule', name: 'Work1Page', segment: 'Work1/:id', priority: 'low', defaultHistory: [] }
                     ]
                 })
             ],
