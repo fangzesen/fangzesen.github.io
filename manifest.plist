@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://ckjlapp.com/apps/icon57x57.jpg</string>
+					<string>https://ckjlapp.com/apps/icon57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://ckjlapp.com/apps/icon512x512.jpg</string>
+					<string>https://ckjlapp.com/apps/icon512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>MyApp</string>
+				<string>移动OA</string>
 			</dict>
 		</dict>
 	</array>
