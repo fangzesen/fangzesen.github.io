@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.southgis.xianning.test</string>
+				<string>com.southgis.xianning</string>
 				<key>bundle-version</key>
 				<string>0.0.3</string>
 				<key>kind</key>
