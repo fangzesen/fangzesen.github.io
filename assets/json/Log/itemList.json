@@ -1,0 +1,52 @@
+[
+    [{
+            "fieldName": "itemName",
+            "fieldType": "select",
+            "fieldLabel": "项目名称",
+            "fieldValue": "咸宁"
+        },
+        {
+            "fieldName": "itemNumber",
+            "fieldType": "select",
+            "fieldLabel": "项目编号",
+            "fieldValue": "11111"
+        },
+        {
+            "fieldName": "itemTime",
+            "fieldType": "text",
+            "fieldLabel": "工时",
+            "fieldValue": "7.5小时"
+        },
+        {
+            "fieldName": "itemContent",
+            "fieldType": "text",
+            "fieldLabel": "工作内容",
+            "fieldValue": "今天做了XXXXXXXXXXXXXXXXXXXX事"
+        }
+    ],
+    [{
+            "fieldName": "itemName",
+            "fieldLabel": "项目名称",
+            "fieldType": "select",
+            "fieldValue": "泉州"
+        },
+        {
+            "fieldName": "itemNumber",
+            "fieldLabel": "项目编号",
+            "fieldType": "select",
+            "fieldValue": "22222"
+        },
+        {
+            "fieldName": "itemTime",
+            "fieldLabel": "工时",
+            "fieldType": "text",
+            "fieldValue": "7.5小时"
+        },
+        {
+            "fieldName": "itemContent",
+            "fieldLabel": "工作内容",
+            "fieldType": "text",
+            "fieldValue": "今天做了YYYYYYYYYYYYYYYYYYYY事"
+        }
+    ]
+]

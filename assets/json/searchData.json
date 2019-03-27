@@ -1,0 +1,28 @@
+[{
+    "CODE": "1DD4CF2564F347D58363CFB9A6BC1A7F",
+    "type": "0",
+    "CurStepArrivetime": "2018-11-23",
+    "CurStepTitle": "已结束任务安排",
+    "JobType": "地下管线普查及探测",
+    "Title": "黄埔区宏岗河综合整治工程地块1: 500现状地形图测里",
+    "Department": "广东省地质测绘院",
+    "Organization": "地下工程探测研究所"
+}, {
+    "CODE": "2DD4CF2564F347D58363CFB9A6BC1A7F",
+    "type": "1",
+    "CurStepArrivetime": "2018-11-23",
+    "CurStepTitle": "已结束任务安排",
+    "JobType": "地下管线普查及探测",
+    "Title": "广州常元房地产开发实业有限公司业扩套项目",
+    "Department": "广东省地质测绘院",
+    "Organization": "地下工程探测研究所"
+}, {
+    "CODE": "3DD4CF2564F347D58363CFB9A6BC1A7F",
+    "type": "2",
+    "CurStepArrivetime": "2018-11-23",
+    "CurStepTitle": "已结束任务安排",
+    "JobType": "地下管线普查及探测",
+    "Title": "重庆市历史文化资源则绘和数据采集第三方监理项目",
+    "Department": "广东省地质测绘院",
+    "Organization": "地下工程探测研究所"
+}]
