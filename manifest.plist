@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ckjlapp.com:8888/apps/LightOA.ipa</string>
+					<string>https://ckjlapp.com/apps/LightOA.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://ckjlapp.com:8888/apps/icon57.png</string>
+					<string>https://ckjlapp.com/apps/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://ckjlapp.com:8888/apps/icon512.png</string>
+					<string>https://ckjlapp.com/apps/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.southgis.xianningOA</string>
 				<key>bundle-version</key>
-				<string>0.0.2</string>
+				<string>0.0.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
