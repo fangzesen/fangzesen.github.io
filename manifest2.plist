@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.southgis.xianningOA</string>
+				<string>com.southgis.quanzhouOA</string>
 				<key>bundle-version</key>
 				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>LightOA</string>
+				<string>泉州移动OA</string>
 			</dict>
 		</dict>
 	</array>
